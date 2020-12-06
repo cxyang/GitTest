@@ -11,4 +11,4 @@ this is a test for fit
     add new0818
     
 ## git it
-    test remote branch &&&
+    test remote branch BUT has a trump
